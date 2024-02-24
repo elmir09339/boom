@@ -1,0 +1,57 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #ADFF2F;
+    padding: 5px;
+    border-radius: 10px;
+    
+}
+
+h1 i {
+   border: 1px solid black; 
+   border-radius: 15px;
+   color: orange;
+   padding-left: 50px;
+   padding-right: 50px;
+   margin: 150px;
+}
+
+footer {
+    background-color: navajowhite;
+    padding:10px;
+}
+
+footer p {
+    background-color: white;
+    padding: 5px
+    
+}
+
+nav {
+    border: 3px double grey;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    margin: 30px;
+    border: 3px solid grey;
+    padding: 2px;
+    border-radius: 7px;
+    background-color: orange;
+
+    
+}
+
+.pro {
+    background-color: white;
+}
+
+br {
+    background-color: orange;
+}
